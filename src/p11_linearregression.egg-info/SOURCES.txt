@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/p11_linearregression.egg-info/PKG-INFO
+src/p11_linearregression.egg-info/SOURCES.txt
+src/p11_linearregression.egg-info/dependency_links.txt
+src/p11_linearregression.egg-info/top_level.txt
