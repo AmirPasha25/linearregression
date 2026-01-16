@@ -43,3 +43,6 @@ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \dots + \beta_n x_n
 	•	MSE / RMSE – average squared error
 	•	MAE – robust to outliers
 
+## STATISTICAL METRICS
+	•	R² – proportion of variance explained
+	•	Adjusted R² – penalizes unnecessary features
