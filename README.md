@@ -32,3 +32,9 @@
 y = \beta_0 + \beta_1 x
 	•	Multiple linear regression:
 y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \dots + \beta_n x_n
+
+## COMMON USE CASES:
+	•	Sales and revenue forecasting
+	•	Price prediction
+	•	Trend analysis
+	•	Baseline models in ML pipelines
